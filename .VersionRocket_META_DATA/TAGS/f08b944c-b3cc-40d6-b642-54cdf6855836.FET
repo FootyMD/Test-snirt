@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>f08b944c-b3cc-40d6-b642-54cdf6855836</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>README.md</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\VersionRocket Repositories\Test snirt</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>734b7858-8c31-407a-95d1-d71c1fafa616</guid>
+  </Tags>
+</FolderEntryTags>
